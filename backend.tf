@@ -5,6 +5,6 @@ terraform {
     key = "main"
     region = "us-west-2"
     //dynamodb_table = "my-dynamo-db-table-tf"
-    dynamodb_table = "my-dynamodb-table
+    dynamodb_table = "my-dynamodb-table"
   }
 }
